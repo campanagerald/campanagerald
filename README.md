@@ -1,6 +1,6 @@
 ### Hi, I am Gerald 👋
 
-- 🔭 I’m currently working on Flutter and React Native
+- 🔭 I’m currently working on Flutter and React Native apps
 - 🌱 I’m currently learning Flutter and React Native 😁
 
 # ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=campanagerald&theme=blue-green)
