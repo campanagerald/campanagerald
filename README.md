@@ -1,6 +1,6 @@
 ### Hi, I am Gerald 👋
 
-- 🔭 I developed Flutter and React Native apps
+- 🔭 I develop Flutter and React Native apps
 
 # ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coyksdev&theme=blue-green)
 # ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=coyksdev&show_icons=true)
