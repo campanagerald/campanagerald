@@ -19,3 +19,4 @@ I'm a React Native developer.
 - 📝 Managing content with Prismic
 - 🔥 Utilizing Firebase services
 - ⚛️ Using React Query for efficient data fetching
+- 🧠 Implementing state management with Legend App State
