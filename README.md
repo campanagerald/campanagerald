@@ -20,3 +20,4 @@ I'm a React Native developer.
 - 🔥 Utilizing Firebase services
 - ⚛️ Using React Query for efficient data fetching
 - 🧠 Implementing state management with Legend App State
+- 🔍 Incorporating Supabase for powerful backend solutions and database management
