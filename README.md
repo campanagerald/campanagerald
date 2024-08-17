@@ -36,7 +36,7 @@ I'm Gerald, a React Native developer.
 ## Projects
 
 ### 1. Joosup
-- **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
+- **Description**: Joosup is a peer-to-peer EV charger sharing platform that allows electric vehicle owners to rent out their home chargers or find available chargers nearby. The app is designed to make EV charging more accessible and convenient, helping to bridge the gap in EV infrastructure.
 - **Link**: [Joosup](https://www.joosup.com/) 
 
 ### 2. Gander
