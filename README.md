@@ -14,7 +14,6 @@ I'm Gerald, a React Native developer.
 
 - 📱 Working with React Native and Expo for mobile app development.
 - 📡 Integrating Sendbird for real-time messaging
-- 🚀 Building Node.js applications
 - 📊 Working with MongoDB for data storage
 - 📝 Managing content with Prismic
 - 🔥 Utilizing Firebase services
