@@ -33,3 +33,20 @@ I'm Gerald, a React Native developer.
 - Data Fetching: [React Query](https://tanstack.com/query/latest/docs/framework/react/overview)
 - State Management: [Legend App State](https://legendapp.com/open-source/state/v3/intro/introduction/)
 
+## Projects
+
+### 1. Joosup
+- **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
+- **Link**: [Joosup](https://www.joosup.com/) 
+
+### 2. Gander
+- **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
+- **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.moretonblue.gander&hl=en)
+
+### 3. Fixlers
+- **Description**: Fixlers is a mobile application for service technicians. The app allows technicians to receive job assignments, update job statuses, communicate with clients, and manage their schedules efficiently. It's tailored to streamline the workflow for field service professionals.
+- **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.fixlerstechnicians&hl=en&gl=US)
+
+### 4. ShopSM
+- **Description**: ShopSM is the official online shopping platform of The SM Store. It offers a wide range of products, from fashion to electronics, home essentials, and more. It provides a seamless shopping experience with easy navigation, multiple payment options, and reliable delivery services across the Philippines.
+- **Link**: [Mobile App](https://apps.apple.com/ph/app/shopsm/id1473939651)
