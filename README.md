@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hey there! 👋
+## Hey there! My name is Gerald Campana👋
 
 I'm a React Native developer.
 
