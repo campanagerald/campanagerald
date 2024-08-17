@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 -->
 
-## Hey there! My name is Gerald Campana👋
+## Hey there!👋
 
-I'm a React Native developer.
+I'm Gerald, a React Native developer.
 
 - 📱 Working with React Native and Expo for mobile app development.
 - 📡 Integrating Sendbird for real-time messaging
