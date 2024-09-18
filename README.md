@@ -33,22 +33,22 @@ I'm Gerald, a React Native developer.
 
 ## Projects
 
-### 1. Joosup
+### Joosup
 - **Description**: Joosup is a peer-to-peer EV charger sharing platform that allows electric vehicle owners to rent out their home chargers or find available chargers nearby. The app is designed to make EV charging more accessible and convenient, helping to bridge the gap in EV infrastructure.
 - **Location**: UK
 - **Link**: [Joosup](https://www.joosup.com/) 
 
-### 2. Gander
+### Gander
 - **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
 - **Location**: AU
 - **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.moretonblue.gander&hl=en)
 
-### 3. Fixlers
+### Fixlers
 - **Description**: Fixlers is a mobile application for service technicians. The app allows technicians to receive job assignments, update job statuses, communicate with clients, and manage their schedules efficiently. It's tailored to streamline the workflow for field service professionals.
 - **Location**: US
 - **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.fixlerstechnicians&hl=en&gl=US)
 
-### 4. ShopSM
+### ShopSM
 - **Description**: ShopSM is the official online shopping platform of The SM Store. It offers a wide range of products, from fashion to electronics, home essentials, and more. It provides a seamless shopping experience with easy navigation, multiple payment options, and reliable delivery services across the Philippines.
 - **Location**: PH
 - **Link**: [Mobile App](https://apps.apple.com/ph/app/shopsm/id1473939651)
