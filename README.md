@@ -23,7 +23,7 @@ I'm Gerald, a React Native developer.
 
 ## Tech Stack
 
-- Mobile Development: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Nativewindui](https://nativewindui.com/)
+- Mobile Development: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Nativewindui](https://nativewindui.com/), [Unistyles](https://www.unistyl.es/)
 - Real-Time Messaging: [Sendbird](https://sendbird.com/)
 - Backend Development: [Node.js](https://nodejs.org/)
 - Database: [MongoDB](https://www.mongodb.com/), [Supabase](https://supabase.com/)
