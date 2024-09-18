@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 
 I'm Gerald, a React Native developer.
 
-- 📱 Working with React Native and Expo for mobile app development.
-- 📡 Integrating Sendbird for real-time messaging
-- 📊 Working with MongoDB for data storage
-- 📝 Managing content with Prismic
-- ⚛️ Using React Query for efficient data fetching
-- 🧠 Implementing state management with Legend App State
-- 🔍 Incorporating Supabase for powerful backend solutions and database management
+- 📱 Working with **React Native** and **Expo** for mobile app development
+- 🎨 Using **NativeWind** and **Unistyles** for styling
+- 📡 Integrating **Sendbird** for real-time messaging
+- 📊 Working with **MongoDB** for data storage
+- 📝 Managing content with **Prismic**
+- ⚛️ Using **React Query** for efficient data fetching
+- 🧠 Implementing state management with **Legend App State**
+- 🔍 Incorporating **Supabase** for powerful backend solutions and database management
 
 ## Tech Stack
 
