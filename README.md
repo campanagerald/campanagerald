@@ -44,7 +44,7 @@ I'm Gerald, a React Native developer.
 - **Location**: UK
 - **Link**: [Joosup](https://www.joosup.com/) 
 
-### Gander (
+### Gander (Project Maintenance)
 - **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
 - **Location**: AU
 - **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.moretonblue.gander&hl=en)
