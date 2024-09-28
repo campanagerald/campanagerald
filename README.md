@@ -34,12 +34,17 @@ I'm Gerald, a React Native developer.
 
 ## Projects
 
-### Joosup
+### King of Budz (Current Project - working on their mobile app)
+- **Description**: King of Budz is an online cannabis dispensary and lifestyle brand. The platform offers a wide selection of premium cannabis products, including flowers, edibles, concentrates, and accessories. Catering to both recreational and medicinal users, King of Budz focuses on providing high-quality, lab-tested products with a user-friendly shopping experience.
+- **Location**: US
+- **Link**: [King of Budz](https://shop.kingofbudz.com/) 
+
+### Joosup (Current Project)
 - **Description**: Joosup is a peer-to-peer EV charger sharing platform that allows electric vehicle owners to rent out their home chargers or find available chargers nearby. The app is designed to make EV charging more accessible and convenient, helping to bridge the gap in EV infrastructure.
 - **Location**: UK
 - **Link**: [Joosup](https://www.joosup.com/) 
 
-### Gander
+### Gander (
 - **Description**: A companion app for Gander users. This app allows anesthetists to view, respond to, and manage work requests sent to them.
 - **Location**: AU
 - **Link**: [Mobile App](https://play.google.com/store/apps/details?id=com.moretonblue.gander&hl=en)
